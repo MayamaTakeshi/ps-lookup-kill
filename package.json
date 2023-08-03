@@ -1,0 +1,31 @@
+{
+  "name": "ps-lookup-kill",
+  "version": "1.0.0",
+  "description": "Kill processes identified by process lookup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayamaTakeshi/ps-lookup-kill.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "node.js",
+    "process",
+    "kill",
+    "lookup"
+  ],
+  "author": "MayamaTakeshi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MayamaTakeshi/ps-lookup-kill/issues"
+  },
+  "homepage": "https://github.com/MayamaTakeshi/ps-lookup-kill#readme",
+  "dependencies": {
+    "deasync": "^0.1.28",
+    "ps-node": "^0.1.6"
+  }
+}
